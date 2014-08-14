@@ -1,4 +1,4 @@
-var Reactperf = require("react/lib/ReactDefaultPerf");
+var ReactPerf = require("react/lib/ReactDefaultPerf");
 
 
 if ( typeof module !== "undefined" && module.exports ) {
